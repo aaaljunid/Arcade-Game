@@ -10,15 +10,16 @@ The challenge is to avoid the bugs on the storn road. If a bug is touched or you
  You can install the game in tow ways:
 
 1. Clone or download the following repo: 
-    
+    https://github.com/aaaljunid/Arcade-Game.git  
 
-2. Play the game direct form the link in the below:
+2. Play the game direct form the link in the below and save it in the desktop as shortcut:
+    https://aaaljunid.github.io/Arcade-Game/
     
 
 
 ## How to Play:
  
-Click on this link : 
+Click on this link : https://aaaljunid.github.io/Arcade-Game/
 
 1. Using the arrow keys on your keyboard,
 
